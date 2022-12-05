@@ -49,7 +49,5 @@
 
   ## 📫 &nbsp;Contact me 
   
-  [![LinkedIn Badge](https://img.shields.io/badge/-Alice_Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-vieira-9a6745252/)](https://www.linkedin.com/in/enzo-vieira-9a6745252/)
-  [![Instagram Badge](https://img.shields.io/badge/-capvalce-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/capvalce/)
-  
+  <a> </a>  
 </div>
