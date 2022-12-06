@@ -64,19 +64,19 @@
   ## 💾 &nbsp;Principais Projetos
   
   - WebScrapper (Periodico Capes): 
-    <br>Resumo: WebScrapper utilizando Python e Selenium, com o objetivo de, a partir de um site dinamico e com multiplos frames, recolher e guardar artigos (junto de seus resumos, DOI's e Títulos) relacionados a uma pesquisa inputada pelo usuário. <a href="https://github.com/VieiraEnzo/WebScapper-PeriodicoCapes" target="_blank">Link do repositório</a>
+    <br>Resumo: WebScrapper utilizando Python e Selenium, com o objetivo de, a partir de um site dinamico e com multiplos frames, recolher e guardar artigos (junto de seus resumos, DOI's e Títulos) relacionados a uma pesquisa inputada pelo usuário. <a href="https://github.com/VieiraEnzo/WebScapper-PeriodicoCapes" target="_blank">Repositório</a>
   
   - Fila Virual Bandejâo UFRJ:
-    <br>Resumo: Projeto de uma fila virtual para o bandejão universitário, utilizando Flask, SQLite, HTML e CSS para realizar atividades como: Logar no site, reservar um horario de almoço, logar como funcionário, administrar refeições e verificar inscrição de alunos na fila. <a href="https://github.com/VieiraEnzo/Fila-Bandeco" target="_blank">Link do repositório</a>
+    <br>Resumo: Projeto de uma fila virtual para o bandejão universitário, utilizando Flask, SQLite, HTML e CSS para realizar atividades como: Logar no site, reservar um horario de almoço, logar como funcionário, administrar refeições e verificar inscrição de alunos na fila. <a href="https://github.com/VieiraEnzo/Fila-Bandeco" target="_blank">Repositório</a>
   
   - Jogo NOIR:
-    <br>Resumo: Jogo de Cartas NOIR feito em C com o objetivo de rodar dentro do PowerShell. <a href="https://github.com/VieiraEnzo/Noir-Game" target="_blank">Link do repositório</a>
+    <br>Resumo: Jogo de Cartas NOIR feito em C com o objetivo de rodar dentro do PowerShell. <a href="https://github.com/VieiraEnzo/Noir-Game" target="_blank">Repositório</a>
   
   - Calculadora de Médias:
-    <br>Resumo: Site criado usando Flask, Python e SQLite que a partir de um login, guarda informações sobre notas de provas e calcula se o aluno ficou de prova final, passou ou reprovou. <a href="https://github.com/VieiraEnzo/Web-CaludoraMedia" target="_blank">Link do repositório</a>
+    <br>Resumo: Site criado usando Flask, Python e SQLite que a partir de um login, guarda informações sobre notas de provas e calcula se o aluno ficou de prova final, passou ou reprovou. <a href="https://github.com/VieiraEnzo/Web-CaludoraMedia" target="_blank">Repositório</a>
   
   - Agenda Telefonico:
-  <br>Resumo: Site criado usando Flask e Python para criar uma agenda telefonica, guardando os contatos (telefone e nome) em um arquivo CSV. <a href="https://github.com/VieiraEnzo/Web-AgendaTelefonica" target="_blank">Link do repositório</a>
+  <br>Resumo: Site criado usando Flask e Python para criar uma agenda telefonica, guardando os contatos (telefone e nome) em um arquivo CSV. <a href="https://github.com/VieiraEnzo/Web-AgendaTelefonica" target="_blank">Repositório</a>
    
 </div>
 
