@@ -77,8 +77,9 @@
   
   - Agenda Telefonico:
   <br>Resumo: Site criado usando Flask e Python para criar uma agenda telefonica, guardando os contatos (telefone e nome) em um arquivo CSV. <a href="https://github.com/VieiraEnzo/Web-AgendaTelefonica" target="_blank">Repositório</a>
-   
-</div>
+  
+  - Kaggle Bike Sharing Challenge
+   <br>Resumo: Fazer um modelo preditivo para predizer a quantidade de pessoas que irão alugar uma bicicleta em um dado dia do ano, baseado em dados metereológicos. <a href="https://colab.research.google.com/drive/1XHx935xvlPgwdKwjjIRbkh0HbeWgKrm_?usp=sharing" target="_blank">Google Colab</a>
 
 
 <div>
