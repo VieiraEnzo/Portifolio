@@ -5,7 +5,7 @@
   ## 🔭 Sobre Mim
 
   - 📚 Estudante de Engenharia da UFRJ.
-  - 📜 Interesse em WebDev, ciência de dados, aprendizado de maquina, IoT, GameDev e outros.
+  - 📜 Interesse em Otimização, ciência de dados, aprendizado de maquina, IoT, GameDev e outros.
 
   
 
@@ -19,6 +19,8 @@
   - Visual Studio Code
   - SQL
   - Git
+  - Python
+  - C++
   - Inglês
   
   
@@ -28,10 +30,9 @@
 <div>
 
   ## 📚 &nbsp;Atualmente Aprendendo
-
-  - CSS
+  
   - Javascript
-  - React
+  - OpenGl
   - Data Science (matplotlib, pandas, outros)
 
 </div>
