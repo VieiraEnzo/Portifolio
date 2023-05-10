@@ -32,6 +32,7 @@
   ## 📚 &nbsp;Atualmente Aprendendo
   
   - Javascript
+  - GUI's
   - OpenGl
   - Data Science (matplotlib, pandas, outros)
 
